@@ -20,11 +20,7 @@ python-proxy-checker
 |
 |-- README.md
 |
-|-- input
-|   |-- first.txt
-|   |-- second.txt
-|   |-- third.txt
+|-- proxys.txt (input)
 |
-|-- output
-    |-- out_filtered.txt
+|-- checkedproxylist.txt (output)
 ```
